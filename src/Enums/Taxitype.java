@@ -31,4 +31,7 @@ public enum Taxitype {
     public void setPriceforLanding(BigDecimal priceforLanding) {
         this.priceforLanding = priceforLanding;
     }
+
+
+
 }
