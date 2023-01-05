@@ -25,6 +25,7 @@ public enum Taxitype {
 
     public BigDecimal getPriceforLanding() {
         return priceforLanding;
+
     }
 
     public void setPriceforLanding(BigDecimal priceforLanding) {
